@@ -49,3 +49,11 @@ _Clusters for K=6_
 -------------------------------------------------------------------------
 
 Decided that K=4 was the best option
+
+-----------------------
+### Visualizing Results
+-----------------------
+
+_3D plot with parameters hover_name="CoinName" and hover_data=["Algorithm"]
+
+![]()
