@@ -54,6 +54,21 @@ Decided that K=4 was the best option
 ### Visualizing Results
 -----------------------
 
-_3D plot with parameters hover_name="CoinName" and hover_data=["Algorithm"]
+3D plot with parameters hover_name="CoinName" and hover_data=["Algorithm"]
 
-![]()
+![](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/I3.png)
+
+---------------------------------------------------------------------------
+
+Table with All Current Tradable Cryptocurrencies
+
+![](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/I4.png)
+
+--------------------------------------------------------------------------
+
+2D Cluster plot for x="TotalCoinsMined" and y="TotalCoinSupply"
+
+![](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/I5.png)
+
+--------------------------------------------------------------------------
+
