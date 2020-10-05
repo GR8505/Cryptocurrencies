@@ -1,1 +1,24 @@
 # Cryptocurrencies
+---------------------------------------------------------------------------------------------------
+## Executive Summary
+---------------------------------------------------------------------------------------------------
+--------------------------------------
+### Data Preprocessing Tasks Completed
+--------------------------------------
+1. Removed all cryptocurrencies that were not trading
+2. Removed all cryptocurrencies that had no defined Algorithm
+3. Removed the IsTrading column
+4. Removed all cryptocurrencies with at least one null value
+5. Removed all cryptocurrencies without coins mined
+6. Created a separate dataframe with all the names of the cryptocurrencies
+7. Removed the CoinName column in the original crypto_df dataframe
+8. Created dummy variables for the Algorithm and ProofType columns
+9. Standardized the dataframe
+
+---------------------------------------------------------------------
+### Reducing Data Dimensions Using Principal Component Analysis (PCA)
+---------------------------------------------------------------------
+
+Reduced to Three components
+
+![]()
