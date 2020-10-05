@@ -27,6 +27,13 @@ Reduced to Three components
 ### Elbow Curve Analysis
 ------------------------
 
-Clusters for K=4
+Elbow Curve
+
+![](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/I2.png)
+
+-------------------------------------------------------------------------
+Experimented with values for K=4, K=5 and K=6
+
+_Clusters for K=4_
 
 ![]()
