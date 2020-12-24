@@ -51,10 +51,6 @@ Reduced to Three components
 -------------------------------------------------------------------------
 ### Experimented with values for K=4, K=5 and K=6
 -------------------------------------------------------------------------
-_Clusters for K=4_
-
-![](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/K4.png)
-
 
 Decided that K=4 was the best option
 
@@ -68,10 +64,6 @@ Decided that K=4 was the best option
 
 ---------------------------------------------------------------------------
 
-Table with All Current Tradable Cryptocurrencies
 
-![](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/I4.png)
-
---------------------------------------------------------------------------
 
 
