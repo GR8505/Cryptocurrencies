@@ -11,6 +11,14 @@ and to use unsupervised machine learning to see if there are any clusters of cry
 1. Perform dimension reduction using **Principal Component Analysis (PCA)** method and clustering using **K-means**
 2. Present my findings
 
+------------------
+### Resources ###
+------------------
+1. Python 
+2. 
+
+
+
 --------------------------------------
 ### Data Preprocessing Tasks Completed
 --------------------------------------
