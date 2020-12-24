@@ -5,19 +5,19 @@
 The main objective of this project was to determine which cryptocurrencies were trading on the market
 and to use unsupervised machine learning to see if there are any clusters of cryptocurrencies.
 
-----------------------
-### Project Tasks ###
-----------------------
+-----------------
+### Project Tasks
+-----------------
 1. Perform dimension reduction using **Principal Component Analysis (PCA)** method and clustering using **K-means**
 2. Present my findings
 
-------------------
-### Resources ###
-------------------
+--------------
+### Resources
+--------------
 1. Python 
-2. 
-
-
+2. Sklearn
+3. Pandas
+4. HVplot
 
 --------------------------------------
 ### Data Preprocessing Tasks Completed
