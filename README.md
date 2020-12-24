@@ -1,6 +1,6 @@
 # Cryptocurrencies
 ---------------------------------------------------------------------------------------------------
-<img src="https://github.com/GR8505/Cryptocurrencies/blob/master/Images/Header.jpg" alt="drawing" width="400"/>
+<img src="https://github.com/GR8505/Cryptocurrencies/blob/master/Images/Header.jpg" alt="drawing" width="600"/>
 
 ## Executive Summary
 ---------------------------------------------------------------------------------------------------
