@@ -1,5 +1,8 @@
 # Cryptocurrencies
 ---------------------------------------------------------------------------------------------------
+![](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/Header.jpg)
+
+
 ## Executive Summary
 ---------------------------------------------------------------------------------------------------
 The main objective of this project was to determine which cryptocurrencies were trading on the market
