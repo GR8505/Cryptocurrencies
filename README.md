@@ -7,7 +7,7 @@
 The main objective of this project was to determine which cryptocurrencies were trading on the market
 and to use unsupervised machine learning to see if there are any clusters of cryptocurrencies.
 
-[![Watch the video](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/Dashboard.png)](https://youtu.be/jtQU7YTS5jg)
+[![Watch the video](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/Dashboard.png)](https://youtu.be/H_gKzovCTaw)
 Click above image to view video of Dashboard.
 
 
