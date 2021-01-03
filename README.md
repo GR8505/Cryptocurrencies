@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Cryptocurrencies Analysis
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/GR8505/Cryptocurrencies/blob/master/Images/Header.jpg" alt="drawing" width="600"/>
 
