@@ -79,11 +79,11 @@ Decided that K=4 was the best option
 ---------------
 ### References
 ---------------
-[dPoC](https://medium.com/@FiiiLAB/nasdaq-worlds-first-mobile-mining-machine-with-dpoc-of-fiiipos-505124bf42dd)
-[PoS](https://academy.binance.com/en/articles/delegated-proof-of-stake-explained)
-[PoW](https://academy.binance.com/en/articles/delayed-proof-of-work-explained)
-[PoS Guide](https://www.finyear.com/The-Proof-of-Stake-Guidebook-PoS-DPoS-LPoS-BPoS-Kezako_a40716.html)
-[PoA](https://academy.binance.com/en/articles/proof-of-authority-explained)
-[Other Explantions](https://finance.yahoo.com/news/cryptocurrency-qibuck-coin-offers-passive-043600512.html)
+1. [dPoC](https://medium.com/@FiiiLAB/nasdaq-worlds-first-mobile-mining-machine-with-dpoc-of-fiiipos-505124bf42dd)
+2. [PoS](https://academy.binance.com/en/articles/delegated-proof-of-stake-explained)
+3. [PoW](https://academy.binance.com/en/articles/delayed-proof-of-work-explained)
+4. [PoS Guide](https://www.finyear.com/The-Proof-of-Stake-Guidebook-PoS-DPoS-LPoS-BPoS-Kezako_a40716.html)
+5. [PoA](https://academy.binance.com/en/articles/proof-of-authority-explained)
+6. [Other Explantions](https://finance.yahoo.com/news/cryptocurrency-qibuck-coin-offers-passive-043600512.html)
 
 
