@@ -7,11 +7,18 @@
 The main objective of this project was to determine which cryptocurrencies were trading on the market
 and to use unsupervised machine learning to see if there are any clusters of cryptocurrencies.
 
+**Key Findings**
+Four clusters of cryptocurrencies were used.  Check the below dashboard for further details.
+
 [![Watch the video](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/Dashboard.png)](https://youtu.be/H_gKzovCTaw)
 Click above image to view video of Dashboard.
 
 
 For powerBI users, view [dashboard](https://app.powerbi.com/reportEmbed?reportId=ebda9cad-630a-4262-b10b-df0755e988b7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
+
+The final page facilitates potential investors in cryptocurrencies.  It allows clients to choose
+cryptocurrency by _Class_, _Proof Type_ and _Algorithm_ to determine the suitable mix of options for
+their investment portfolio.
 
 -----------------
 ### Project Tasks
