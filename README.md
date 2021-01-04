@@ -10,7 +10,7 @@ and to use unsupervised machine learning to see if there are any clusters of cry
 ### Key Findings ###
 Four clusters of cryptocurrencies were used.  In the dashboard below, the final page facilitates 
 potential investors who are interesting in choosing the right mix of cryptocurrencies based on
-_Class_, _Proof Type_ and [_Algorithm_](https://medium.com/@Mr.dhariwal/cryptocurrency-mining-algorithms-and-popular-cryptocurrencies-48176d3559d6) for their investment portfolio. 
+_Class_, [_Proof Type_](https://github.com/GR8505/Cryptocurrencies/blob/master/Proof_Type.txt) and [_Algorithm_](https://medium.com/@Mr.dhariwal/cryptocurrency-mining-algorithms-and-popular-cryptocurrencies-48176d3559d6) for their investment portfolio. 
 
 [![Watch the video](https://github.com/GR8505/Cryptocurrencies/blob/master/Images/Dashboard.png)](https://youtu.be/H_gKzovCTaw)
 Click above image to view video of Dashboard.
