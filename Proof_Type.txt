@@ -1,0 +1,19 @@
+ -----------
+|Proof Type |
+ -----------
+
+-----------------------------------
+
+DPoC - Delegated Proof of Capacity
+DPoS - Delegated Proof of Stake
+dPoW - Delegated Proof of Work
+PoW  - Proof of Work
+LPoS - Liquid Proof of Stake
+PoA  - Proof of Authority
+POBh - Proof of Biblehash
+PoC  - Proof of Capacity
+PoS  - Proof of Stake
+PoT  - PotCoin
+nPoS - Non-Profit coins
+TPoS - Traditional Proof of Stake
+------------------------------------
